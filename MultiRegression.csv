@@ -1,0 +1,188 @@
+School,STEM,Program,Religious,Gender,Start_Year,Grade_Change,Abs_grades,AgeDiff,Age,Partner_Age,Distance,Hour_Away,Live_Together,Frequency
+University of Waterloo,1,Engineering,0,1,3,-5,5,3,23,20,0,1,0,4
+IIT,1,Computer Science,0,1,4,5,5,8,22,30,0,1,0,10
+University of Waterloo,1,Engineering,0,1,3,0,0,0,22,22,0,1,0,25
+University of Waterloo,1,Engineering,0,1,4,0,0,2,22,20,0,1,0,5
+University of Waterloo,1,Engineering,0,1,4,7,7,0,22,22,1,0,0,4
+University of Waterloo,1,Engineering,0,1,4,7,7,0,22,22,1,0,0,4
+University of Waterloo,1,Engineering,0,1,4,7,7,0,22,22,1,0,0,4
+University of Waterloo,1,Engineering,0,1,4,7,7,0,22,22,1,0,0,4
+University of Waterloo,1,Engineering,0,1,4,7,7,0,22,22,1,0,0,4
+University of Waterloo,1,Engineering,0,1,4,7,7,0,22,22,1,0,0,4
+University of Waterloo,1,Engineering,0,1,4,7,7,0,22,22,1,0,0,4
+University of Waterloo,1,Math,0,1,4,0,0,2,22,20,1,0,0,16
+University of Guelph,0,Arts,0,1,4,-2,2,1,22,21,1,0,0,12
+University of Waterloo,0,environment,0,1,4,0,0,2,22,24,0,1,0,6
+McMaster University,0,Health Sciences,0,1,4,3,3,2,22,24,0,1,0,2
+University of Ottawa,0,Social Science,0,1,3,0,0,2,22,24,1,0,0,10
+University of Waterloo,1,Engineering,0,1,2,2,2,0,21,21,1,0,0,10
+University of Waterloo,1,Engineering,0,1,2,0,0,1,21,22,1,0,0,8
+University of Waterloo,1,Engineering,0,1,3,0,0,0,21,21,0,1,0,4
+Universidad Carlos III de Madrid,1,Engineering,0,0,3,-10,10,2,21,23,1,0,0,3
+University of Waterloo,1,Engineering,0,0,2,4,4,1,21,20,0,1,0,3
+University of Waterloo,1,Engineering,0,1,2,1,1,3,21,24,1,0,0,2
+University of Waterloo,1,Math,0,0,3,-3,3,1,21,20,1,0,0,25
+University of Ottawa,1,Math,1,1,4,11,11,3,21,24,0,1,0,1
+York University,1,Science,0,1,2,0,0,1,21,20,1,0,0,25
+University of Waterloo,1,Science,0,0,3,2,2,0,21,21,1,0,0,25
+University of Waterloo,1,Science,1,1,3,15,15,1,21,20,1,0,0,5
+University of Waterloo,1,Science,0,1,3,2,2,2,21,23,0,1,0,4
+McMaster University,1,Science,1,1,3,0,0,1,21,22,0,1,0,4
+York University,1,Science,0,0,3,0,0,1,21,20,0,1,0,1
+University of Western Ontario,0,Arts,0,1,4,-4,4,1,21,20,1,0,0,31
+Dalhousie,0,Arts,0,1,3,8,8,1,21,20,2,0,1,31
+University of Waterloo,0,Arts,1,1,3,-3,3,1,21,20,0,1,0,31
+University of Western Ontario,0,Arts,0,1,4,3,3,1,21,22,1,0,0,12
+University of Waterloo,0,Arts,1,1,3,-4,4,0,21,21,1,0,0,5
+University of Waterloo,0,Arts,0,1,4,1,1,0,21,21,0,1,0,4
+University of Western Ontario,0,Business,1,1,3,1,1,0,21,21,1,0,0,25
+University of Western Ontario,0,Business,0,0,4,10,10,1,21,20,1,0,0,15
+Ryerson University,0,Business,0,0,3,0,0,1,21,20,1,0,0,15
+Dalhousie,0,Business,0,1,3,2,2,3,21,24,0,1,0,4
+OCAD,0,Design,0,1,3,0,0,0,21,21,0,1,0,1.50
+York University,0,Education,0,1,2,2,2,1,21,20,0,1,0,5
+University of Waterloo,0,Environment,0,0,1,3,3,0,21,21,0,1,0,6
+University of Waterloo,0,Environment,0,0,2,11,11,2,21,19,1,0,0,5
+University of Waterloo,0,Environment,0,0,3,-2,2,0,21,21,0,1,0,3
+University of Waterloo,0,Environment & Aviation,0,0,3,1,1,2,21,19,2,0,1,24
+Michigan State University,0,History,0,0,3,3,3,2,21,19,2,0,1,31
+University of Toronto,0,Psychology,1,0,3,0,0,1,21,20,0,1,0,0.10
+McMaster University,0,Social Science,0,1,4,-6,6,0,21,21,1,0,0,16
+University of Waterloo,1,Computer Science,1,1,3,1,1,0,20,20,2,0,1,30
+University of Waterloo,1,Engineering,1,1,2,6,6,6,20,26,1,0,0,30
+University of Waterloo,1,Engineering,1,0,2,9,9,0,20,20,2,0,1,30
+University of Waterloo,1,Engineering,0,1,3,4,4,1,20,21,1,0,0,25
+University of Waterloo,1,Engineering,0,0,2,3,3,0,20,20,1,0,0,25
+University of Waterloo,1,Engineering,0,1,3,2,2,2,20,22,1,0,0,12
+University of Waterloo,1,Engineering,0,1,2,0,0,5,20,25,1,0,0,10
+University of Waterloo,1,Engineering,0,1,2,0,0,4,20,24,1,0,0,6
+University of Waterloo,1,Engineering,0,1,2,0,0,4,20,24,1,0,0,6
+University of Waterloo,1,Engineering,0,1,1,0,0,0,20,20,0,1,0,4
+University of Waterloo,1,Engineering,0,0,3,-3,3,1,20,19,0,1,0,4
+University of Stuttgart,1,Engineering,1,1,2,0,0,0,20,20,1,0,0,4
+University of Waterloo,1,Engineering,1,0,2,-9,9,1,20,19,0,1,0,3
+University of Waterloo,1,Engineering,0,1,2,5,5,0,20,20,0,1,0,1
+University of Waterloo,1,Math,0,1,2,-10,10,1,20,21,1,0,0,20
+University of Waterloo,1,Math,0,1,2,0,0,0,20,20,0,1,0,1
+University of Toronto,1,Science,0,1,3,0,0,2,20,18,1,0,0,31
+University of Waterloo,1,Science,0,0,3,-4,4,0,20,20,2,0,1,31
+University of Guelph,1,Science,0,1,2,0,0,0,20,20,2,0,1,30
+University of Waterloo,1,Science,0,1,3,0,0,1,20,21,1,0,0,28
+McMaster University,1,Science,0,1,3,14,14,0,20,20,1,0,0,25
+University of Vermont,1,Science,0,1,2,-5,5,0,20,20,1,0,0,25
+University of Waterloo,1,Science,0,0,2,-2,2,1,20,21,1,0,0,20
+University of Waterloo,1,Science,1,1,2,2,2,0,20,20,2,0,1,20
+University of British Columbia,1,Science,0,1,3,0,0,2,20,22,1,0,0,10
+University of Waterloo,1,Science,0,1,3,5,5,2,20,22,0,1,0,8
+University of Toronto,0,Arts,0,1,1,0,0,2,20,18,2,0,1,31
+University of Toronto,0,Arts,0,1,3,10,10,0,20,20,2,0,1,31
+University of Toronto,0,Arts,0,1,0,4,4,4,20,24,1,0,0,12
+Ryerson University,0,Arts,1,1,0,0,0,1,20,19,1,0,0,10
+York University,0,Arts,1,1,3,5,5,4,20,24,1,0,0,5
+University of Waterloo,0,Arts,0,0,2,5,5,1,20,19,0,1,0,2
+University of Guelph,0,Business,0,1,3,-1,1,3,20,23,1,0,0,30
+Wilfrid Laurier University,0,Business,0,1,3,5,5,0,20,20,1,0,0,25
+University of Western Ontario,0,Business,0,1,2,1,1,0,20,20,1,0,0,15
+University of Waterloo,0,Business,0,1,2,-2,2,4,20,24,2,0,1,8
+University of Waterloo,0,Business,1,0,3,0,0,0,20,20,0,1,0,5
+Wilfrid Laurier University,0,Business,0,1,2,-2,2,1,20,21,0,1,0,3
+University of Waterloo,0,Business,0,1,3,-1,1,0,20,20,0,1,0,2
+University of Toronto,0,Media,1,0,3,-3,3,2,20,18,0,1,0,4
+University of Waterloo,1,Engineering,0,1,1,16,16,9,19,28,2,0,1,31
+University of Waterloo,1,Engineering,1,1,1,1,1,4,19,23,2,0,1,31
+UOIT,1,Engineering,0,0,2,-5,5,2,19,21,2,0,1,30
+University of Waterloo,1,Engineering,0,1,2,6,6,3,19,22,1,0,0,20
+University of Waterloo,1,Engineering,0,0,1,8,8,1,19,18,1,0,0,15
+University of Waterloo,1,Engineering,1,0,2,7,7,1,19,18,1,0,0,15
+University of Waterloo,1,Engineering,0,1,2,4,4,1,19,20,1,0,0,8
+University of Waterloo,1,Engineering,0,0,2,-3,3,3,19,22,1,0,0,4
+University of Waterloo,1,Engineering,0,1,2,5,5,1,19,20,2,0,1,4
+University of Waterloo,1,Engineering,0,1,0,7,7,1,19,18,0,1,0,3
+University of Waterloo,1,Engineering,0,1,1,-13,13,1,19,18,0,1,0,3
+University of Waterloo,1,Engineering,1,0,2,6,6,0,19,19,1,0,0,3
+University of Waterloo,1,Engineering,1,0,1,0,0,1,19,18,0,1,0,3
+McMaster University,1,Engineering,0,1,2,-2,2,2,19,21,0,1,0,2
+University of Waterloo,1,Engineering,1,0,1,5,5,1,19,18,0,1,0,2
+University of Waterloo,1,Engineering,1,0,3,-1,1,0,19,19,0,1,0,2
+University of Waterloo,1,Engineering,1,0,3,-5,5,0,19,19,0,1,0,2
+University of Waterloo,1,Engineering,0,1,2,-2,2,0,19,19,0,1,0,1
+University of Waterloo,1,Engineering,0,1,3,0,0,1,19,20,0,1,0,1
+Trent University,1,Math,0,0,2,-5,5,1,19,20,1,0,0,8
+University of Waterloo,1,Science,0,1,2,0,0,1,19,20,1,0,0,20
+University of Waterloo,1,Science,1,1,2,-5,5,0,19,19,0,1,0,20
+University of Toronto,1,Science,1,1,2,-2,2,0,19,19,1,0,0,15
+University of Waterloo,0,AHS,0,1,1,-2,2,2,19,21,2,0,1,25
+UOIT,0,AHS,0,1,0,4,4,4,19,23,1,0,0,15
+Queen's University,0,Arts,0,1,2,0,0,0,19,19,1,0,0,30
+University of British Columbia,0,Arts,0,0,2,10,10,1,19,20,1,0,0,30
+University of Waterloo,0,Arts,0,1,3,-1,1,1,19,20,1,0,0,26
+McGill,0,Arts,1,1,1,2,2,3,19,22,1,0,0,25
+Wilfrid Laurier University,0,Arts,0,1,2,5,5,0,19,19,1,0,0,20
+Queen's University,0,Arts,0,1,2,0,0,1,19,18,1,0,0,12
+University of Toronto,0,Arts,0,1,2,5,5,0,19,19,0,1,0,2
+McGill,0,Arts,0,1,2,7,7,4,19,23,0,1,0,1
+Humber College,0,Business,1,1,1,-5,5,1,19,20,1,0,0,31
+University of Waterloo,0,Business,0,1,2,-4,4,2,19,21,1,0,0,25
+University of Toronto,0,Business,0,1,2,-5,5,2,19,21,1,0,0,4
+University of Toronto,0,Business,0,0,2,-6,6,1,19,18,0,1,0,4
+York University,0,Business,1,1,1,0,0,4,19,23,1,0,0,4
+University of Waterloo,0,Business,0,1,1,5,5,3,19,22,0,1,0,1
+University of Waterloo,0,Interdisciplinary,0,1,2,6,6,2,19,21,0,1,0,2
+University of Waterloo,0,Kinesiology,0,0,2,5,5,1,19,20,0,1,0,15
+University of Waterloo,0,Knowledge Integration,0,0,2,4,4,1,19,20,1,0,0,31
+Wilfrid Laurier University,0,Music,0,1,1,-15,15,3,19,22,1,0,0,30
+University of Toronto,0,Philosophy,0,1,2,0,0,1,19,18,1,0,0,2
+University of Edinburgh,0,Politics,0,1,2,8,8,6,19,25,2,0,1,31
+University of Guelph-Humber,0,Social Work,0,0,2,-3,3,2,19,17,1,0,0,15
+McGill,1,Computer Science,0,0,1,-14,14,0,18,18,2,0,1,31
+University of Waterloo,1,Computer Science,0,0,4,2,2,1,18,19,0,1,0,1
+University of Waterloo,1,Engineering,0,1,1,-2,2,0,18,18,1,0,0,30
+University of Waterloo,1,Engineering,0,0,1,-23,23,0,18,18,2,0,1,30
+University of Waterloo,1,Engineering,0,1,1,-15,15,0,18,18,1,0,0,20
+uOttawa,1,Engineering,0,0,2,10,10,2,18,20,1,0,0,20
+McMaster University,1,Engineering,0,1,2,5,5,3,18,21,1,0,0,16
+University of Waterloo,1,Engineering,0,1,1,-19,19,0,18,18,1,0,0,12
+University of Waterloo,1,Engineering,0,0,1,0,0,0,18,18,1,0,0,5
+University of Waterloo,1,Engineering,1,0,1,-23,23,1,18,17,0,1,0,3
+University of Waterloo,1,Math,0,0,1,0,0,0,18,18,1,0,0,25
+University of Waterloo,1,Science,0,1,1,-10,10,0,18,18,2,0,1,31
+University of Waterloo,1,Science,0,1,1,-5,5,1,18,17,0,1,0,25
+University of Waterloo,1,Science,1,0,1,0,0,0,18,18,1,0,0,25
+University of Toronto,1,Science,0,1,1,-24,24,0,18,18,0,1,0,20
+University of Toronto,1,Science,1,0,1,0,0,1,18,17,1,0,0,15
+University of Toronto,1,Science,0,0,0,-18,18,1,18,17,1,0,0,6
+University of Windsor,1,Science,0,1,0,2,2,0,18,18,0,1,0,4
+University of Waterloo,1,Science,0,0,1,-2,2,7,18,25,1,0,0,3
+University of Guelph,1,Science,1,1,1,0,0,3,18,21,0,1,0,3
+University of Toronto,1,Science,0,1,1,6,6,1,18,19,0,1,0,1
+University of Waterloo,1,Science,0,0,0,-2,2,0,18,18,0,1,0,1
+University of Waterloo,1,Science,0,0,0,0,0,0,18,18,0,1,0,0.25
+Dalhousie,0,Arts,0,1,1,-6,6,1,18,19,1,0,0,31
+University of Waterloo,0,Arts,0,1,1,-2,2,0,18,18,2,0,1,31
+McGill,0,Arts,0,1,1,0,0,1,18,19,1,0,0,20
+University of Waterloo,0,Arts,0,0,1,-9,9,0,18,18,1,0,0,20
+University of Waterloo,0,Arts,0,0,1,-7,7,0,18,18,0,1,0,10
+University of Waterloo,0,Arts,0,1,1,2,2,4,18,22,0,1,0,5
+University of Waterloo,0,Kinesiology,0,1,2,0,0,0,18,18,1,0,0,10
+Trent University,0,Nursing,0,1,1,2,2,0,18,18,1,0,0,20
+Dalhousie,0,Psychology,0,1,1,0,0,1,18,17,0,1,0,1
+University of Waterloo,1,Engineering,0,0,0,0,0,0,17,17,2,0,1,31
+University of Waterloo,1,Engineering,1,0,0,7,7,2,17,15,1,0,0,18
+University of Waterloo,1,Engineering,0,0,1,-20,20,0,17,17,0,1,0,8
+University of Waterloo,1,Math,0,0,0,8,8,1,17,16,0,1,0,0.33
+University of Waterloo,1,Science,0,1,0,0,0,1,17,18,2,0,1,25
+University of Waterloo,1,Science,0,1,0,-5,5,2,17,15,0,1,0,1
+University of Waterloo,0,Arts,0,0,0,0,0,0,17,17,0,1,0,6
+University of Waterloo,0,Arts,1,1,0,5,5,0,17,17,0,1,0,3
+Seneca college,0,Aviation technology,0,0,0,0,0,1,17,16,0,1,0,3
+Dalhousie,0,Business,0,1,1,0,0,1,17,18,2,0,1,31
+Wilfrid Laurier University,0,Business,0,1,0,-9,9,1,17,18,0,1,0,2
+Royal Melbourne Institute of Technology,0,Psychology,0,1,0,-5,5,3,17,20,0,1,0,8
+University of Waterloo,1,Engineering,1,1,0,5,5,2,16,18,0,1,0,1
+Ryerson University,0,Arts,0,1,0,0,0,0,16,16,1,0,0,25
+OCAD,0,Arts,0,1,0,0,0,2,16,18,1,0,0,1
+Wilfrid Laurier University,0,Education,0,1,0,0,0,0,16,16,0,1,0,1
+University of Windsor,1,Engineering,0,1,0,2,2,0,15,15,1,0,0,12
+University of Waterloo,1,Math,1,0,0,-25,25,1,15,14,0,1,0,1
+Ryerson University,0,Arts,0,1,0,0,0,0,15,15,0,1,0,1
+University of Waterloo,1,Science,0,1,0,0,0,0,14,14,2,0,1,30

@@ -1,0 +1,188 @@
+School,SchoolNum,Program,ProgramNum,Religious,IsReligious,Gender,IsFemale,Start_Year,Grade_Change,GradeDecrease,Grade_Bin,Age,Partner_Age,Age_Cluster,AgeBin,P_Age_Cluster,PartnerBin,Hour_Away,HourBin,Live_Together,TogetherBin,Frequency,Freq_Cluster,FreqBin
+University of Western Ontario,23,Arts,2,No,0,Female,1,4,-4,Yes,-4% to 0,21,20,20 to 21.347,2,20,5,No,1,No,1,31,30.531+,1
+Humber College,2,Business,4,Yes,1,Female,1,1,-5,Yes,Less than -4%,19,20,19,3,20,5,No,1,No,1,31,30.531+,1
+University of Waterloo,22,Knowledge Integration,15,No,0,Male,0,2,4,No,0 to 4%,19,20,19,3,20,5,No,1,No,1,31,30.531+,1
+Dalhousie,1,Arts,2,No,0,Female,1,1,-6,Yes,Less than -4%,18,19,18,4,19,6,No,1,No,1,31,30.531+,1
+University of Toronto,20,Science,23,No,0,Female,1,3,0,No,No change,20,18,20 to 21.347,2,17.778 to 19,7,No,1,No,1,31,30.531+,1
+University of Waterloo,22,Arts,2,Yes,1,Female,1,3,-3,Yes,-4% to 0,21,20,20 to 21.347,2,20,5,Yes,0,No,1,31,30.531+,1
+University of Waterloo,22,Engineering,8,No,0,Female,1,1,16,No,Greater than 4%,19,28,19,3,24.333 to 29,2,No,1,Yes,0,31,30.531+,1
+University of Edinburgh,15,Politics,21,No,0,Female,1,2,8,No,Greater than 4%,19,25,19,3,24.333 to 29,2,No,1,Yes,0,31,30.531+,1
+University of Waterloo,22,Engineering,8,Yes,1,Female,1,1,1,No,0 to 4%,19,23,19,3,22.2593 to 24.333,3,No,1,Yes,0,31,30.531+,1
+Dalhousie,1,Arts,2,No,0,Female,1,3,8,No,Greater than 4%,21,20,20 to 21.347,2,20,5,No,1,Yes,0,31,30.531+,1
+University of Toronto,20,Arts,2,No,0,Female,1,3,10,No,Greater than 4%,20,20,20 to 21.347,2,20,5,No,1,Yes,0,31,30.531+,1
+University of Waterloo,22,Science,23,No,0,Other,0,3,-4,Yes,-4% to 0,20,20,20 to 21.347,2,20,5,No,1,Yes,0,31,30.531+,1
+Michigan State University,6,History,12,No,0,Male,0,3,3,No,0 to 4%,21,19,20 to 21.347,2,19,6,No,1,Yes,0,31,30.531+,1
+University of Toronto,20,Arts,2,No,0,Female,1,1,0,No,No change,20,18,20 to 21.347,2,17.778 to 19,7,No,1,Yes,0,31,30.531+,1
+University of Waterloo,22,Science,23,No,0,Female,1,1,-10,Yes,Less than -4%,18,18,18,4,17.778 to 19,7,No,1,Yes,0,31,30.531+,1
+University of Waterloo,22,Arts,2,No,0,Female,1,1,-2,Yes,-4% to 0,18,18,18,4,17.778 to 19,7,No,1,Yes,0,31,30.531+,1
+McGill,4,Computer Science,5,No,0,Male,0,1,-14,Yes,Less than -4%,18,18,18,4,17.778 to 19,7,No,1,Yes,0,31,30.531+,1
+Dalhousie,1,Business,4,No,0,Female,1,1,0,No,No change,17,18,16.75-18,5,17.778 to 19,7,No,1,Yes,0,31,30.531+,1
+University of Waterloo,22,Engineering,8,No,0,Male,0,0,0,No,No change,17,17,16.75-18,5,15.2-17.7778,8,No,1,Yes,0,31,30.531+,1
+University of Waterloo,22,Engineering,8,Yes,1,Female,1,2,6,No,Greater than 4%,20,26,20 to 21.347,2,24.333 to 29,2,No,1,No,1,30,25 to 30.531,2
+University of Guelph,16,Business,4,No,0,Female,1,3,-1,Yes,-4% to 0,20,23,20 to 21.347,2,22.2593 to 24.333,3,No,1,No,1,30,25 to 30.531,2
+Wilfrid Laurier University,27,Music,18,No,0,Female,1,1,-15,Yes,Less than -4%,19,22,19,3,21 to 22.2593,4,No,1,No,1,30,25 to 30.531,2
+University of British Columbia,14,Arts,2,No,0,Male,0,2,10,No,Greater than 4%,19,20,19,3,20,5,No,1,No,1,30,25 to 30.531,2
+Queen's University,8,Arts,2,No,0,Female,1,2,0,No,No change,19,19,19,3,19,6,No,1,No,1,30,25 to 30.531,2
+University of Waterloo,22,Engineering,8,No,0,Female,1,1,-2,Yes,-4% to 0,18,18,18,4,17.778 to 19,7,No,1,No,1,30,25 to 30.531,2
+UOIT,25,Engineering,8,No,0,Male,0,2,-5,Yes,Less than -4%,19,21,19,3,21 to 22.2593,4,No,1,Yes,0,30,25 to 30.531,2
+University of Guelph,16,Science,23,No,0,Female,1,2,0,No,No change,20,20,20 to 21.347,2,20,5,No,1,Yes,0,30,25 to 30.531,2
+University of Waterloo,22,Computer Science,5,Yes,1,Female,1,3,1,No,0 to 4%,20,20,20 to 21.347,2,20,5,No,1,Yes,0,30,25 to 30.531,2
+University of Waterloo,22,Engineering,8,Yes,1,Male,0,2,9,No,Greater than 4%,20,20,20 to 21.347,2,20,5,No,1,Yes,0,30,25 to 30.531,2
+University of Waterloo,22,Engineering,8,No,0,Male,0,1,-23,Yes,Less than -4%,18,18,18,4,17.778 to 19,7,No,1,Yes,0,30,25 to 30.531,2
+University of Waterloo,22,Science,23,No,0,Female,1,0,0,No,No change,14,14,14.75 or Less,7,15.2 or Less,9,No,1,Yes,0,30,25 to 30.531,2
+University of Waterloo,22,Science,23,No,0,Female,1,3,0,No,No change,20,21,20 to 21.347,2,21 to 22.2593,4,No,1,No,1,28,25 to 30.531,2
+University of Waterloo,22,Arts,2,No,0,Female,1,3,-1,Yes,-4% to 0,19,20,19,3,20,5,No,1,No,1,26,25 to 30.531,2
+McGill,4,Arts,2,Yes,1,Female,1,1,2,No,0 to 4%,19,22,19,3,21 to 22.2593,4,No,1,No,1,25,25 to 30.531,2
+University of Western Ontario,23,Business,4,Yes,1,Female,1,3,1,No,0 to 4%,21,21,20 to 21.347,2,21 to 22.2593,4,No,1,No,1,25,25 to 30.531,2
+University of Waterloo,22,Science,23,No,0,Male,0,3,2,No,0 to 4%,21,21,20 to 21.347,2,21 to 22.2593,4,No,1,No,1,25,25 to 30.531,2
+University of Waterloo,22,Engineering,8,No,0,Female,1,3,4,No,0 to 4%,20,21,20 to 21.347,2,21 to 22.2593,4,No,1,No,1,25,25 to 30.531,2
+University of Waterloo,22,Business,4,No,0,Female,1,2,-4,Yes,-4% to 0,19,21,19,3,21 to 22.2593,4,No,1,No,1,25,25 to 30.531,2
+York University,28,Science,23,No,0,Female,1,2,0,No,No change,21,20,20 to 21.347,2,20,5,No,1,No,1,25,25 to 30.531,2
+University of Waterloo,22,Math,16,No,0,Male,0,3,-3,Yes,-4% to 0,21,20,20 to 21.347,2,20,5,No,1,No,1,25,25 to 30.531,2
+McMaster University,5,Science,23,No,0,Female,1,3,14,No,Greater than 4%,20,20,20 to 21.347,2,20,5,No,1,No,1,25,25 to 30.531,2
+University of Vermont,21,Science,23,No,0,Female,1,2,-5,Yes,Less than -4%,20,20,20 to 21.347,2,20,5,No,1,No,1,25,25 to 30.531,2
+Wilfrid Laurier University,27,Business,4,No,0,Female,1,3,5,No,Greater than 4%,20,20,20 to 21.347,2,20,5,No,1,No,1,25,25 to 30.531,2
+University of Waterloo,22,Engineering,8,No,0,Male,0,2,3,No,0 to 4%,20,20,20 to 21.347,2,20,5,No,1,No,1,25,25 to 30.531,2
+University of Waterloo,22,Math,16,No,0,Male,0,1,0,No,No change,18,18,18,4,17.778 to 19,7,No,1,No,1,25,25 to 30.531,2
+University of Waterloo,22,Science,23,Yes,1,Male,0,1,0,No,No change,18,18,18,4,17.778 to 19,7,No,1,No,1,25,25 to 30.531,2
+Ryerson University,10,Arts,2,No,0,Female,1,0,0,No,No change,16,16,14.75-16.75,6,15.2-17.7778,8,No,1,No,1,25,25 to 30.531,2
+University of Waterloo,22,Engineering,8,No,0,Female,1,3,0,No,No change,22,22,21.347 and over,1,21 to 22.2593,4,Yes,0,No,1,25,25 to 30.531,2
+University of Waterloo,22,Science,23,No,0,Female,1,1,-5,Yes,Less than -4%,18,17,18,4,15.2-17.7778,8,Yes,0,No,1,25,25 to 30.531,2
+University of Waterloo,22,AHS,1,No,0,Female,1,1,-2,Yes,-4% to 0,19,21,19,3,21 to 22.2593,4,No,1,Yes,0,25,25 to 30.531,2
+University of Waterloo,22,Science,23,No,0,Female,1,0,0,No,No change,17,18,16.75-18,5,17.778 to 19,7,No,1,Yes,0,25,25 to 30.531,2
+University of Waterloo,22,Environment & Aviation,10,No,0,Male,0,3,1,No,0 to 4%,21,19,20 to 21.347,2,19,6,No,1,Yes,0,24,19.857 to 25,3
+University of Waterloo,22,Engineering,8,No,0,Female,1,2,6,No,Greater than 4%,19,22,19,3,21 to 22.2593,4,No,1,No,1,20,19.857 to 25,3
+University of Waterloo,22,Math,16,No,0,Female,1,2,-10,Yes,Less than -4%,20,21,20 to 21.347,2,21 to 22.2593,4,No,1,No,1,20,19.857 to 25,3
+University of Waterloo,22,Science,23,No,0,Male,0,2,-2,Yes,-4% to 0,20,21,20 to 21.347,2,21 to 22.2593,4,No,1,No,1,20,19.857 to 25,3
+University of Waterloo,22,Science,23,No,0,Female,1,2,0,No,No change,19,20,19,3,20,5,No,1,No,1,20,19.857 to 25,3
+uOttawa,26,Engineering,8,No,0,Male,0,2,10,No,Greater than 4%,18,20,18,4,20,5,No,1,No,1,20,19.857 to 25,3
+Wilfrid Laurier University,27,Arts,2,No,0,Female,1,2,5,No,Greater than 4%,19,19,19,3,19,6,No,1,No,1,20,19.857 to 25,3
+McGill,4,Arts,2,No,0,Female,1,1,0,No,No change,18,19,18,4,19,6,No,1,No,1,20,19.857 to 25,3
+Trent University,12,Nursing,19,No,0,Female,1,1,2,No,0 to 4%,18,18,18,4,17.778 to 19,7,No,1,No,1,20,19.857 to 25,3
+University of Waterloo,22,Engineering,8,No,0,Female,1,1,-15,Yes,Less than -4%,18,18,18,4,17.778 to 19,7,No,1,No,1,20,19.857 to 25,3
+University of Waterloo,22,Arts,2,No,0,Male,0,1,-9,Yes,Less than -4%,18,18,18,4,17.778 to 19,7,No,1,No,1,20,19.857 to 25,3
+University of Waterloo,22,Science,23,Yes,1,Female,1,2,-5,Yes,Less than -4%,19,19,19,3,19,6,Yes,0,No,1,20,19.857 to 25,3
+University of Toronto,20,Science,23,No,0,Female,1,1,-24,Yes,Less than -4%,18,18,18,4,17.778 to 19,7,Yes,0,No,1,20,19.857 to 25,3
+University of Waterloo,22,Science,23,Yes,1,Female,1,2,2,No,0 to 4%,20,20,20 to 21.347,2,20,5,No,1,Yes,0,20,19.857 to 25,3
+University of Waterloo,22,Engineering,8,Yes,1,Male,0,0,7,No,Greater than 4%,17,15,16.75-18,5,15.2 or Less,9,No,1,No,1,18,15.231 to 19.857,4
+McMaster University,5,Social Science,24,No,0,Female,1,4,-6,Yes,Less than -4%,21,21,20 to 21.347,2,21 to 22.2593,4,No,1,No,1,16,15.231 to 19.857,4
+McMaster University,5,Engineering,8,No,0,Female,1,2,5,No,Greater than 4%,18,21,18,4,21 to 22.2593,4,No,1,No,1,16,15.231 to 19.857,4
+University of Waterloo,22,Math,16,No,0,Female,1,4,0,No,No change,22,20,21.347 and over,1,20,5,No,1,No,1,16,15.231 to 19.857,4
+UOIT,25,AHS,1,No,0,Female,1,0,4,No,0 to 4%,19,23,19,3,22.2593 to 24.333,3,No,1,No,1,15,12 to 15.231,5
+Ryerson University,10,Business,4,No,0,Male,0,3,0,No,No change,21,20,20 to 21.347,2,20,5,No,1,No,1,15,12 to 15.231,5
+University of Western Ontario,23,Business,4,No,0,Male,0,4,10,No,Greater than 4%,21,20,20 to 21.347,2,20,5,No,1,No,1,15,12 to 15.231,5
+University of Western Ontario,23,Business,4,No,0,Female,1,2,1,No,0 to 4%,20,20,20 to 21.347,2,20,5,No,1,No,1,15,12 to 15.231,5
+University of Toronto,20,Science,23,Yes,1,Female,1,2,-2,Yes,-4% to 0,19,19,19,3,19,6,No,1,No,1,15,12 to 15.231,5
+University of Waterloo,22,Engineering,8,No,0,Male,0,1,8,No,Greater than 4%,19,18,19,3,17.778 to 19,7,No,1,No,1,15,12 to 15.231,5
+University of Waterloo,22,Engineering,8,Yes,1,Male,0,2,7,No,Greater than 4%,19,18,19,3,17.778 to 19,7,No,1,No,1,15,12 to 15.231,5
+University of Guelph-Humber,17,Social Work,25,No,0,Male,0,2,-3,Yes,-4% to 0,19,17,19,3,15.2-17.7778,8,No,1,No,1,15,12 to 15.231,5
+University of Toronto,20,Science,23,Yes,1,Male,0,1,0,No,No change,18,17,18,4,15.2-17.7778,8,No,1,No,1,15,12 to 15.231,5
+University of Waterloo,22,Kinesiology,14,No,0,Male,0,2,5,No,Greater than 4%,19,20,19,3,20,5,Yes,0,No,1,15,12 to 15.231,5
+University of Toronto,20,Arts,2,No,0,Female,1,0,4,No,0 to 4%,20,24,20 to 21.347,2,22.2593 to 24.333,3,No,1,No,1,12,12 to 15.231,5
+University of Western Ontario,23,Arts,2,No,0,Female,1,4,3,No,0 to 4%,21,22,20 to 21.347,2,21 to 22.2593,4,No,1,No,1,12,12 to 15.231,5
+University of Waterloo,22,Engineering,8,No,0,Female,1,3,2,No,0 to 4%,20,22,20 to 21.347,2,21 to 22.2593,4,No,1,No,1,12,12 to 15.231,5
+University of Guelph,16,Arts,2,No,0,Female,1,4,-2,Yes,-4% to 0,22,21,21.347 and over,1,21 to 22.2593,4,No,1,No,1,12,12 to 15.231,5
+Queen's University,8,Arts,2,No,0,Female,1,2,0,No,No change,19,18,19,3,17.778 to 19,7,No,1,No,1,12,12 to 15.231,5
+University of Waterloo,22,Engineering,8,No,0,Female,1,1,-19,Yes,Less than -4%,18,18,18,4,17.778 to 19,7,No,1,No,1,12,12 to 15.231,5
+University of Windsor,24,Engineering,8,No,0,Female,1,0,2,No,0 to 4%,15,15,14.75-16.75,6,15.2 or Less,9,No,1,No,1,12,12 to 15.231,5
+University of Waterloo,22,Engineering,8,No,0,Female,1,2,0,No,No change,20,25,20 to 21.347,2,24.333 to 29,2,No,1,No,1,10,9.067 to 12,6
+University of Ottawa,18,Social Science,24,No,0,Female,1,3,0,No,No change,22,24,21.347 and over,1,22.2593 to 24.333,3,No,1,No,1,10,9.067 to 12,6
+University of British Columbia,14,Science,23,No,0,Female,1,3,0,No,No change,20,22,20 to 21.347,2,21 to 22.2593,4,No,1,No,1,10,9.067 to 12,6
+University of Waterloo,22,Engineering,8,No,0,Female,1,2,2,No,0 to 4%,21,21,20 to 21.347,2,21 to 22.2593,4,No,1,No,1,10,9.067 to 12,6
+Ryerson University,10,Arts,2,Yes,1,Female,1,0,0,No,No change,20,19,20 to 21.347,2,19,6,No,1,No,1,10,9.067 to 12,6
+University of Waterloo,22,Kinesiology,14,No,0,Female,1,2,0,No,No change,18,18,18,4,17.778 to 19,7,No,1,No,1,10,9.067 to 12,6
+IIT,3,Computer Science,5,No,0,Female,1,4,5,No,Greater than 4%,22,30,21.347 and over,1,29 and over,1,Yes,0,No,1,10,9.067 to 12,6
+University of Waterloo,22,Arts,2,No,0,Male,0,1,-7,Yes,Less than -4%,18,18,18,4,17.778 to 19,7,Yes,0,No,1,10,9.067 to 12,6
+University of Waterloo,22,Engineering,8,No,0,Female,1,2,0,No,No change,21,22,20 to 21.347,2,21 to 22.2593,4,No,1,No,1,8,5.4 to 9.067,7
+University of Waterloo,22,Engineering,8,No,0,Female,1,2,4,No,0 to 4%,19,20,19,3,20,5,No,1,No,1,8,5.4 to 9.067,7
+Trent University,12,Math,16,No,0,Male,0,2,-5,Yes,Less than -4%,19,20,19,3,20,5,No,1,No,1,8,5.4 to 9.067,7
+University of Waterloo,22,Science,23,No,0,Female,1,3,5,No,Greater than 4%,20,22,20 to 21.347,2,21 to 22.2593,4,Yes,0,No,1,8,5.4 to 9.067,7
+Royal Melbourne Institute of Technology,9,Psychology,22,No,0,Female,1,0,-5,Yes,Less than -4%,17,20,16.75-18,5,20,5,Yes,0,No,1,8,5.4 to 9.067,7
+University of Waterloo,22,Engineering,8,No,0,Male,0,1,-20,Yes,Less than -4%,17,17,16.75-18,5,15.2-17.7778,8,Yes,0,No,1,8,5.4 to 9.067,7
+University of Waterloo,22,Business,4,No,0,Female,1,2,-2,Yes,-4% to 0,20,24,20 to 21.347,2,22.2593 to 24.333,3,No,1,Yes,0,8,5.4 to 9.067,7
+University of Waterloo,22,Engineering,8,No,0,Female,1,2,0,No,No change,20,24,20 to 21.347,2,22.2593 to 24.333,3,No,1,No,1,6,5.4 to 9.067,7
+University of Waterloo,22,Engineering,8,No,0,Female,1,2,0,No,No change,20,24,20 to 21.347,2,22.2593 to 24.333,3,No,1,No,1,6,5.4 to 9.067,7
+University of Toronto,20,Science,23,No,0,Male,0,0,-18,Yes,Less than -4%,18,17,18,4,15.2-17.7778,8,No,1,No,1,6,5.4 to 9.067,7
+University of Waterloo,22,Environment,9,No,0,Female,1,4,0,No,No change,22,24,21.347 and over,1,22.2593 to 24.333,3,Yes,0,No,1,6,5.4 to 9.067,7
+University of Waterloo,22,Environment,9,No,0,Male,0,1,3,No,0 to 4%,21,21,20 to 21.347,2,21 to 22.2593,4,Yes,0,No,1,6,5.4 to 9.067,7
+University of Waterloo,22,Arts,2,No,0,Male,0,0,0,No,No change,17,17,16.75-18,5,15.2-17.7778,8,Yes,0,No,1,6,5.4 to 9.067,7
+York University,28,Arts,2,Yes,1,Female,1,3,5,No,Greater than 4%,20,24,20 to 21.347,2,22.2593 to 24.333,3,No,1,No,1,5,3.622 to 5.4,8
+University of Waterloo,22,Arts,2,Yes,1,Female,1,3,-4,Yes,-4% to 0,21,21,20 to 21.347,2,21 to 22.2593,4,No,1,No,1,5,3.622 to 5.4,8
+University of Waterloo,22,Science,23,Yes,1,Female,1,3,15,No,Greater than 4%,21,20,20 to 21.347,2,20,5,No,1,No,1,5,3.622 to 5.4,8
+University of Waterloo,22,Environment,9,No,0,Male,0,2,11,No,Greater than 4%,21,19,20 to 21.347,2,19,6,No,1,No,1,5,3.622 to 5.4,8
+University of Waterloo,22,Engineering,8,No,0,Male,0,1,0,No,No change,18,18,18,4,17.778 to 19,7,No,1,No,1,5,3.622 to 5.4,8
+University of Waterloo,22,Arts,2,No,0,Female,1,1,2,No,0 to 4%,18,22,18,4,21 to 22.2593,4,Yes,0,No,1,5,3.622 to 5.4,8
+University of Waterloo,22,Engineering,8,No,0,Female,1,4,0,No,No change,22,20,21.347 and over,1,20,5,Yes,0,No,1,5,3.622 to 5.4,8
+York University,28,Education,7,No,0,Female,1,2,2,No,0 to 4%,21,20,20 to 21.347,2,20,5,Yes,0,No,1,5,3.622 to 5.4,8
+University of Waterloo,22,Business,4,Yes,1,Male,0,3,0,No,No change,20,20,20 to 21.347,2,20,5,Yes,0,No,1,5,3.622 to 5.4,8
+York University,28,Business,4,Yes,1,Female,1,1,0,No,No change,19,23,19,3,22.2593 to 24.333,3,No,1,No,1,4,3.622 to 5.4,8
+University of Waterloo,22,Engineering,8,No,0,Female,1,4,7,No,Greater than 4%,22,22,21.347 and over,1,21 to 22.2593,4,No,1,No,1,4,3.622 to 5.4,8
+University of Waterloo,22,Engineering,8,No,0,Female,1,4,7,No,Greater than 4%,22,22,21.347 and over,1,21 to 22.2593,4,No,1,No,1,4,3.622 to 5.4,8
+University of Waterloo,22,Engineering,8,No,0,Female,1,4,7,No,Greater than 4%,22,22,21.347 and over,1,21 to 22.2593,4,No,1,No,1,4,3.622 to 5.4,8
+University of Waterloo,22,Engineering,8,No,0,Female,1,4,7,No,Greater than 4%,22,22,21.347 and over,1,21 to 22.2593,4,No,1,No,1,4,3.622 to 5.4,8
+University of Waterloo,22,Engineering,8,No,0,Female,1,4,7,No,Greater than 4%,22,22,21.347 and over,1,21 to 22.2593,4,No,1,No,1,4,3.622 to 5.4,8
+University of Waterloo,22,Engineering,8,No,0,Female,1,4,7,No,Greater than 4%,22,22,21.347 and over,1,21 to 22.2593,4,No,1,No,1,4,3.622 to 5.4,8
+University of Waterloo,22,Engineering,8,No,0,Female,1,4,7,No,Greater than 4%,22,22,21.347 and over,1,21 to 22.2593,4,No,1,No,1,4,3.622 to 5.4,8
+University of Waterloo,22,Engineering,8,No,0,Male,0,2,-3,Yes,-4% to 0,19,22,19,3,21 to 22.2593,4,No,1,No,1,4,3.622 to 5.4,8
+University of Toronto,20,Business,4,No,0,Female,1,2,-5,Yes,Less than -4%,19,21,19,3,21 to 22.2593,4,No,1,No,1,4,3.622 to 5.4,8
+University of Stuttgart,19,Engineering,8,Yes,1,Female,1,2,0,No,No change,20,20,20 to 21.347,2,20,5,No,1,No,1,4,3.622 to 5.4,8
+Dalhousie,1,Business,4,No,0,Female,1,3,2,No,0 to 4%,21,24,20 to 21.347,2,22.2593 to 24.333,3,Yes,0,No,1,4,3.622 to 5.4,8
+University of Waterloo,22,Science,23,No,0,Female,1,3,2,No,0 to 4%,21,23,20 to 21.347,2,22.2593 to 24.333,3,Yes,0,No,1,4,3.622 to 5.4,8
+McMaster University,5,Science,23,Yes,1,Female,1,3,0,No,No change,21,22,20 to 21.347,2,21 to 22.2593,4,Yes,0,No,1,4,3.622 to 5.4,8
+University of Waterloo,22,Engineering,8,No,0,Female,1,3,0,No,No change,21,21,20 to 21.347,2,21 to 22.2593,4,Yes,0,No,1,4,3.622 to 5.4,8
+University of Waterloo,22,Arts,2,No,0,Female,1,4,1,No,0 to 4%,21,21,20 to 21.347,2,21 to 22.2593,4,Yes,0,No,1,4,3.622 to 5.4,8
+University of Waterloo,22,Engineering,8,No,0,Female,1,3,-5,Yes,Less than -4%,23,20,21.347 and over,1,20,5,Yes,0,No,1,4,3.622 to 5.4,8
+University of Waterloo,22,Engineering,8,No,0,Female,1,1,0,No,No change,20,20,20 to 21.347,2,20,5,Yes,0,No,1,4,3.622 to 5.4,8
+University of Waterloo,22,Engineering,8,No,0,Male,0,3,-3,Yes,-4% to 0,20,19,20 to 21.347,2,19,6,Yes,0,No,1,4,3.622 to 5.4,8
+University of Toronto,20,Media,17,Yes,1,Male,0,3,-3,Yes,-4% to 0,20,18,20 to 21.347,2,17.778 to 19,7,Yes,0,No,1,4,3.622 to 5.4,8
+University of Toronto,20,Business,4,No,0,Male,0,2,-6,Yes,Less than -4%,19,18,19,3,17.778 to 19,7,Yes,0,No,1,4,3.622 to 5.4,8
+University of Windsor,24,Science,23,No,0,Female,1,0,2,No,0 to 4%,18,18,18,4,17.778 to 19,7,Yes,0,No,1,4,3.622 to 5.4,8
+University of Waterloo,22,Engineering,8,No,0,Female,1,2,5,No,Greater than 4%,19,20,19,3,20,5,No,1,Yes,0,4,3.622 to 5.4,8
+University of Waterloo,22,Science,23,No,0,Male,0,1,-2,Yes,-4% to 0,18,25,18,4,24.333 to 29,2,No,1,No,1,3,1.3-3.622,9
+Universidad Carlos III de Madrid,13,Engineering,8,No,0,Male,0,3,-10,Yes,Less than -4%,21,23,20 to 21.347,2,22.2593 to 24.333,3,No,1,No,1,3,1.3-3.622,9
+University of Waterloo,22,Engineering,8,Yes,1,Male,0,2,6,No,Greater than 4%,19,19,19,3,19,6,No,1,No,1,3,1.3-3.622,9
+University of Waterloo,22,Environment,9,No,0,Male,0,3,-2,Yes,-4% to 0,21,21,20 to 21.347,2,21 to 22.2593,4,Yes,0,No,1,3,1.3-3.622,9
+Wilfrid Laurier University,27,Business,4,No,0,Female,1,2,-2,Yes,-4% to 0,20,21,20 to 21.347,2,21 to 22.2593,4,Yes,0,No,1,3,1.3-3.622,9
+University of Guelph,16,Science,23,Yes,1,Female,1,1,0,No,No change,18,21,18,4,21 to 22.2593,4,Yes,0,No,1,3,1.3-3.622,9
+University of Waterloo,22,Engineering,8,No,0,Male,0,2,4,No,0 to 4%,21,20,20 to 21.347,2,20,5,Yes,0,No,1,3,1.3-3.622,9
+University of Waterloo,22,Engineering,8,Yes,1,Male,0,2,-9,Yes,Less than -4%,20,19,20 to 21.347,2,19,6,Yes,0,No,1,3,1.3-3.622,9
+University of Waterloo,22,Engineering,8,No,0,Female,1,0,7,No,Greater than 4%,19,18,19,3,17.778 to 19,7,Yes,0,No,1,3,1.3-3.622,9
+University of Waterloo,22,Engineering,8,No,0,Female,1,1,-13,Yes,Less than -4%,19,18,19,3,17.778 to 19,7,Yes,0,No,1,3,1.3-3.622,9
+University of Waterloo,22,Engineering,8,Yes,1,Male,0,1,0,No,No change,19,18,19,3,17.778 to 19,7,Yes,0,No,1,3,1.3-3.622,9
+University of Waterloo,22,Engineering,8,Yes,1,Male,0,1,-23,Yes,Less than -4%,18,17,18,4,15.2-17.7778,8,Yes,0,No,1,3,1.3-3.622,9
+University of Waterloo,22,Arts,2,Yes,1,Female,1,0,5,No,Greater than 4%,17,17,16.75-18,5,15.2-17.7778,8,Yes,0,No,1,3,1.3-3.622,9
+Seneca college,11,Aviation technology,3,No,0,Male,0,0,0,No,No change,17,16,16.75-18,5,15.2-17.7778,8,Yes,0,No,1,3,1.3-3.622,9
+University of Waterloo,22,Engineering,8,No,0,Female,1,2,1,No,0 to 4%,21,24,20 to 21.347,2,22.2593 to 24.333,3,No,1,No,1,2,1.3-3.622,9
+University of Toronto,20,Philosophy,20,No,0,Female,1,2,0,No,No change,19,18,19,3,17.778 to 19,7,No,1,No,1,2,1.3-3.622,9
+McMaster University,5,Health Sciences,11,No,0,Female,1,4,3,No,0 to 4%,22,24,21.347 and over,1,22.2593 to 24.333,3,Yes,0,No,1,2,1.3-3.622,9
+McMaster University,5,Engineering,8,No,0,Female,1,2,-2,Yes,-4% to 0,19,21,19,3,21 to 22.2593,4,Yes,0,No,1,2,1.3-3.622,9
+University of Waterloo,22,Interdisciplinary,13,No,0,Female,1,2,6,No,Greater than 4%,19,21,19,3,21 to 22.2593,4,Yes,0,No,1,2,1.3-3.622,9
+University of Waterloo,22,Business,4,No,0,Female,1,3,-1,Yes,-4% to 0,20,20,20 to 21.347,2,20,5,Yes,0,No,1,2,1.3-3.622,9
+University of Waterloo,22,Arts,2,No,0,Male,0,2,5,No,Greater than 4%,20,19,20 to 21.347,2,19,6,Yes,0,No,1,2,1.3-3.622,9
+University of Toronto,20,Arts,2,No,0,Female,1,2,5,No,Greater than 4%,19,19,19,3,19,6,Yes,0,No,1,2,1.3-3.622,9
+University of Waterloo,22,Engineering,8,Yes,1,Male,0,3,-1,Yes,-4% to 0,19,19,19,3,19,6,Yes,0,No,1,2,1.3-3.622,9
+University of Waterloo,22,Engineering,8,Yes,1,Male,0,3,-5,Yes,Less than -4%,19,19,19,3,19,6,Yes,0,No,1,2,1.3-3.622,9
+University of Waterloo,22,Engineering,8,Yes,1,Male,0,1,5,No,Greater than 4%,19,18,19,3,17.778 to 19,7,Yes,0,No,1,2,1.3-3.622,9
+Wilfrid Laurier University,27,Business,4,No,0,Female,1,0,-9,Yes,Less than -4%,17,18,16.75-18,5,17.778 to 19,7,Yes,0,No,1,2,1.3-3.622,9
+OCAD,7,Design,6,No,0,Female,1,3,0,No,No change,21,21,20 to 21.347,2,21 to 22.2593,4,Yes,0,No,1,1.5,1.3-3.622,9
+OCAD,7,Arts,2,No,0,Female,1,0,0,No,No change,16,18,14.75-16.75,6,17.778 to 19,7,No,1,No,1,1,0 to 1.3,10
+University of Ottawa,18,Math,16,Yes,1,Female,1,4,11,No,Greater than 4%,21,24,20 to 21.347,2,22.2593 to 24.333,3,Yes,0,No,1,1,0 to 1.3,10
+McGill,4,Arts,2,No,0,Female,1,2,7,No,Greater than 4%,19,23,19,3,22.2593 to 24.333,3,Yes,0,No,1,1,0 to 1.3,10
+University of Waterloo,22,Business,4,No,0,Female,1,1,5,No,Greater than 4%,19,22,19,3,21 to 22.2593,4,Yes,0,No,1,1,0 to 1.3,10
+York University,28,Science,23,No,0,Male,0,3,0,No,No change,21,20,20 to 21.347,2,20,5,Yes,0,No,1,1,0 to 1.3,10
+University of Waterloo,22,Math,16,No,0,Female,1,2,0,No,No change,20,20,20 to 21.347,2,20,5,Yes,0,No,1,1,0 to 1.3,10
+University of Waterloo,22,Engineering,8,No,0,Female,1,2,5,No,Greater than 4%,20,20,20 to 21.347,2,20,5,Yes,0,No,1,1,0 to 1.3,10
+University of Waterloo,22,Engineering,8,No,0,Female,1,3,0,No,No change,19,20,19,3,20,5,Yes,0,No,1,1,0 to 1.3,10
+University of Waterloo,22,Engineering,8,No,0,Female,1,2,-2,Yes,-4% to 0,19,19,19,3,19,6,Yes,0,No,1,1,0 to 1.3,10
+University of Toronto,20,Science,23,No,0,Female,1,1,6,No,Greater than 4%,18,19,18,4,19,6,Yes,0,No,1,1,0 to 1.3,10
+University of Waterloo,22,Computer Science,5,No,0,Male,0,4,2,No,0 to 4%,18,19,18,4,19,6,Yes,0,No,1,1,0 to 1.3,10
+University of Waterloo,22,Science,23,No,0,Male,0,0,-2,Yes,-4% to 0,18,18,18,4,17.778 to 19,7,Yes,0,No,1,1,0 to 1.3,10
+University of Waterloo,22,Engineering,8,Yes,1,Female,1,0,5,No,Greater than 4%,16,18,14.75-16.75,6,17.778 to 19,7,Yes,0,No,1,1,0 to 1.3,10
+Dalhousie,1,Psychology,22,No,0,Female,1,1,0,No,No change,18,17,18,4,15.2-17.7778,8,Yes,0,No,1,1,0 to 1.3,10
+Wilfrid Laurier University,27,Education,7,No,0,Female,1,0,0,No,No change,16,16,14.75-16.75,6,15.2-17.7778,8,Yes,0,No,1,1,0 to 1.3,10
+University of Waterloo,22,Science,23,No,0,Female,1,0,-5,Yes,Less than -4%,17,15,16.75-18,5,15.2 or Less,9,Yes,0,No,1,1,0 to 1.3,10
+Ryerson University,10,Arts,2,No,0,Female,1,0,0,No,No change,15,15,14.75-16.75,6,15.2 or Less,9,Yes,0,No,1,1,0 to 1.3,10
+University of Waterloo,22,Math,16,Yes,1,Male,0,0,-25,Yes,Less than -4%,15,14,14.75-16.75,6,15.2 or Less,9,Yes,0,No,1,1,0 to 1.3,10
+University of Waterloo,22,Math,16,No,0,Male,0,0,8,No,Greater than 4%,17,16,16.75-18,5,15.2-17.7778,8,Yes,0,No,1,0.33,0 to 1.3,10
+University of Waterloo,22,Science,23,No,0,Male,0,0,0,No,No change,18,18,18,4,17.778 to 19,7,Yes,0,No,1,0.25,0 to 1.3,10
+University of Toronto,20,Psychology,22,Yes,1,Male,0,3,0,No,No change,21,20,20 to 21.347,2,20,5,Yes,0,No,1,0.1,0 to 1.3,10
